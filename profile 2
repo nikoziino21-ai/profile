@@ -3,11 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Laura Nicoletta Zino</title>
+	<title>Laura Nicoletta Ziino</title>
 </head>
 <body>
 
-	<h1>Laura Nicoletta Zino</h1>
+	<h1>Laura Nicoletta Ziino</h1>
 	<p><strong>Studente Full Stack</strong> — corso Epicode 2026</p>
 
 	<ul>
@@ -21,7 +21,7 @@
 	<section id="chi-sono">
 		<h2>Chi sono</h2>
 		<img src="foto profilo.jpg" alt="Foto di Laura Nicoletta Zino" width="200"height="200">
-		<p>Mi chiamo Laura Nicoletta Zino e sto imparando a programmare. Studio sviluppo web con <strong>Epicode</strong> e ogni giorno aggiungo qualcosa a questa pagina.</p>
+		<p>Mi chiamo Laura Nicoletta Ziino e sto imparando a programmare. Studio sviluppo web con <strong>Epicode</strong> e ogni giorno aggiungo qualcosa a questa pagina.</p>
 		<p>Vivo a Bassano del Grappa. Ho una formazione precedente in <em>architettura</em> e ora sto cambiando settore. Cerco un primo ruolo come sviluppatore.</p>
 	</section>
 
@@ -130,7 +130,7 @@
 	</section>
 
 	<footer>
-		<p>&copy; 2026 Laura Nicoletta Zino</p>
+		<p>&copy; 2026 Laura Nicoletta Ziino</p>
 	</footer>
 
 </body>
